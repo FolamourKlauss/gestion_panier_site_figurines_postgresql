@@ -1,4 +1,4 @@
-# O'Fig
+# Gestion du panier Figurine avec express session
 
 ## Étape 1: Mise en place
 
